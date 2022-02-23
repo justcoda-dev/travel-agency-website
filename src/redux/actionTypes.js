@@ -1,0 +1,9 @@
+export const MUTATION_TYPES = {
+        HEADER_MENU: "HEADER_MENU",
+        LOGO:"LOGO",
+        BANNERS:"BANNERS",
+        CALL_FORM:"CALL_FORM",
+        COMMENTS:"COMMENTS",
+        MANAGERS:"MANAGERS",
+        OFFICES:"OFFICES"
+}
